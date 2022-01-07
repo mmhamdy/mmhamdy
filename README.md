@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mmhamdy&show_icons=true&theme=radical" width="410" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmhamdy&layout=compact&theme=radical&hide=html" width="400" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mmhamdy&show_icons=true&theme=radical" width="410" height="240"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmhamdy&layout=compact&theme=radical&hide=html,jupyter,tex" width="400" height="200"/>
 </div>
 <!--
 **mmhamdy/mmhamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
