@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My Github Stats
+## 🏆 My Github Stats
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mmhamdy&show_icons=true&theme=radical" width="410" />
