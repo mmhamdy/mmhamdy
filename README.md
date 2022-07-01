@@ -8,7 +8,12 @@
 </div>
 
 ## Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="200" hieght="200" />
+<div style="display:flex; margin: auto;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" hieght="100" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="100" hieght="100" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100" hieght="100" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="100" hieght="100" />
+</div>
 <!--
 **mmhamdy/mmhamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
