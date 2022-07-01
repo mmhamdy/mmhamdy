@@ -8,7 +8,7 @@
 </div>
 
 ## Languages
-<div style="display:flex; margin: auto;">
+<div style="display:flex; margin: auto auto;">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" hieght="100" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="100" hieght="100" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="100" hieght="100" />
