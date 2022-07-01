@@ -6,6 +6,9 @@
 <img src="https://github-readme-stats.vercel.app/api?username=mmhamdy&show_icons=true&theme=radical" width="410" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmhamdy&layout=compact&theme=radical&hide=html,css,scss,jupyter notebook,tex,smarty&langs_count=4" width="400" />
 </div>
+
+## Languages
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="200" hieght="200" />
 <!--
 **mmhamdy/mmhamdy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
