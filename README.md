@@ -8,7 +8,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" hieght="50" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mmhamdy&theme=onedark)](https://github.com/mmhamdy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmhamdy&column=7&theme=onedark)](https://github.com/mmhamdy)
 
 ## 🏆 My Github Stats
 
