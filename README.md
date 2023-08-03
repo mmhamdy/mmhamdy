@@ -8,8 +8,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" hieght="50" />
 </div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mmhamdy&column=9&theme=onedark)](https://github.com/mmhamdy)
-
 ## 🏆 My Github Stats
 
 <div align="center">
@@ -30,4 +28,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mmhamdy&column=9&theme=onedark)](https://github.com/mmhamdy)
 -->
