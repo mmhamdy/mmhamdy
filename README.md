@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Languages
+## Programming Languages
 <div style="display:flex;" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" hieght="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" hieght="50" />
