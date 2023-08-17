@@ -1,11 +1,14 @@
 ### Hi there 👋
-
-## Programming Languages
+## 🔮 Technologies
+### Programming Languages
 <div style="display:flex;" align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" hieght="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="50" hieght="50" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" hieght="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" hieght="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> 
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="30"/>
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30"/>
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/>
 </div>
 
 ## 🏆 My Github Stats
