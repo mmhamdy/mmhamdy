@@ -8,7 +8,7 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30"/>
 &nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="30"/>
 </div>
 
 ## 🏆 My Github Stats
