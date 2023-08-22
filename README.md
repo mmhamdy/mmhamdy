@@ -6,9 +6,36 @@
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" width="30"/>
 &nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="30"/>
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="30"/>
+</div>
+
+### Machine Learning
+<div style="display:flex;" align="center">
+<img src="images/numpylogo.png" width="30"/> 
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="images\jax_logo_250px.webp" width="50"/>
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="30"/>
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="30"/>
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="images/sklearn-logo.png" width="30"/>
+</div>
+
+### Natural Language Processing
+<div style="display:flex;" align="center">
+<img src="images/huggingface_logo-noborder.svg" width="30"/> 
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="images\SpaCy_logo.svg" width="50"/>
+</div>
+
+### Web Development
+<div style="display:flex;" align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
+&nbsp&nbsp&nbsp&nbsp&nbsp
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" width="50"/>
 </div>
 
 ## 🏆 My Github Stats
