@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 🔮 Technologies
-### Programming Languages
+#### Programming Languages
 <div style="display:flex;" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> 
 &nbsp&nbsp&nbsp&nbsp&nbsp
@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="30"/>
 </div>
 
-### Machine Learning
+#### Machine Learning
 <div style="display:flex;" align="center">
 <img src="images/numpylogo.png" width="30"/> 
 &nbsp&nbsp&nbsp&nbsp&nbsp
@@ -24,14 +24,14 @@
 <img src="images/sklearn-logo.png" width="30"/>
 </div>
 
-### Natural Language Processing
+#### Natural Language Processing
 <div style="display:flex;" align="center">
 <img src="images/huggingface_logo-noborder.svg" width="30"/> 
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="images\SpaCy_logo.svg" width="50"/>
 </div>
 
-### Web Development
+#### Web Development
 <div style="display:flex;" align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="30"/>
 &nbsp&nbsp&nbsp&nbsp&nbsp
