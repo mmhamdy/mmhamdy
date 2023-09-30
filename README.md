@@ -1,5 +1,5 @@
 ### Hi there 👋
-I’m Mohammed Hamdy. I’m currently self-studying machine learning and computer science. I’m interested in the application of machine learning and natural language processing in biology, and in neural network compression techniques.
+I’m Mohammed Hamdy. I’m currently self-studying machine learning and computer science. I’m interested in the application of machine learning and natural language processing in biology and in neural network compression techniques.
 
 I enjoy learning, discussing, and comparing different programming languages and deep learning frameworks. I think that there’s always something new to learn from every new tool. 
 
