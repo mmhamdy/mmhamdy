@@ -15,7 +15,7 @@ Python, R, JavaScript, TypeScript, Rust
 &nbsp&nbsp&nbsp&nbsp&nbsp
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="30"/>
 &nbsp&nbsp&nbsp&nbsp&nbsp
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="30"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="30"/>
 </div>
 
 #### Machine Learning
